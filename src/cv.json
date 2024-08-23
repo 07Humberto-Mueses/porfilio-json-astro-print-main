@@ -1,0 +1,195 @@
+{
+  "basics": {
+    "name": "Humberto Mueses",
+    "label": "Estudiante de Ingenieria",
+    "image": "https://avatars.githubusercontent.com/u/123611165?s=400&u=a9d6decfe1b0521c8183ee34a6b79fe7761bee0b&v=4",
+    "email": "humbertom0798@gmail.com",
+    "phone": "+57 3167352884",
+    "url": "https://datasoftcolll.com",
+    "summary": "Tomamos ideas de ficción entre cómics, películas y videojuegos para crear prototipos reales funcionales como una forma de inspirar a los jóvenes en el campo de la ciencia, la tecnología y la ingeniería.",
+    "location": {
+      "address": "Pasto - Nariño",
+      "postalCode": "32002",
+      "city": "San Juan de Pasto",
+      "countryCode": "ES",
+      "region": " Colombia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "07Humberto-Mueses",
+        "url": "https://github.com/07Humberto-Mueses"
+      },
+      {
+        "network": "Facebook",
+        "username": "Humberto M. Quitiaquez",
+        "url": "https://www.facebook.com/humberto10mueses8q/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "En formacion",
+      "position": "Ingenieria Informatica",
+      "url": "https://twitch.tv/tecnopolis",
+      "startDate": "2020-02-01",
+      "endDate": null,
+      "summary": "Estudiante",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Corporación Universitaria Autónoma de Nariño",
+      "url": "https://www.uo/index.html",
+      "area": "Ingeniero de Informático",
+      "studyType": "Bachelor",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "httpcom",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": []
+}
