@@ -6,7 +6,7 @@
     "email": "humbertom0798@gmail.com",
     "phone": "+57 3167352884",
     "url": "https://datasoftcolll.com",
-    "summary": "Tomamos ideas de ficción entre cómics, películas y videojuegos para crear prototipos reales funcionales como una forma de inspirar a los jóvenes en el campo de la ciencia, la tecnología y la ingeniería.",
+    "summary": "Soy estudiante de Ingeniería Informática, actualmente cursando el octavo semestre. Durante mi formación, he adquirido conocimientos en programación, desarrollo de software, bases de datos y tecnologías emergentes. Me apasiona el mundo de la tecnología, estoy en constante aprendizaje, buscando mejorar mis habilidades técnicas y ampliar mi conocimiento en áreas como la neurociencia aplicada a la educación y la gestión de proyectos. Expectativas: Al finalizar mi carrera mi objetivo es integrarme en proyectos desafiantes que me permitan aplicar lo aprendido y seguir creciendo como profesional en el campo de la informática.",
     "location": {
       "address": "Pasto - Nariño",
       "postalCode": "32002",
@@ -51,100 +51,56 @@
   ],
   "education": [
     {
-      "institution": "Corporación Universitaria Autónoma de Nariño",
-      "url": "https://www.uo/index.html",
-      "area": "Ingeniero de Informático",
-      "studyType": "Bachelor",
+      "institution": "Institución Educativa Nuestra Señora del Pilar",
+      "url": "https://colombialicita.com/search?entidadA=7679&sort=udetected",
+      "area": "Bachiller Académico",
+      "studyType": "Bachillerato",
       "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
-    }
-  ],
-  "awards": [
+      "endDate": "2015-12-01"
+    },
     {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "httpcom",
-      "summary": "Description…"
+      "institution": "Corporación Universitaria Autónoma de Nariño",
+      "url": "https://www.aunar.edu.co/",
+      "area": "Ingeniería",
+      "studyType": "Ingeniero Informático",
+      "startDate": "2020-01-01",
+      "endDate": "2025-06-01"
     }
   ],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Básico",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Básico",
       "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "level": "Básico",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend"]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "Básico",
       "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
+      "level": "Básico",
+      "keywords": ["Bases de Datos", "SQL"]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Control de Versiones",
         "Colaboración",
@@ -154,50 +110,33 @@
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "level": "Básico",
+      "keywords": ["Desarrollo Web", "Frontend", "React Framework"]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
     }
   ],
   "projects": [
     {
-      "name": "codes",
+      "name": "heroes-app-Parcial",
+      "isActive": false,
+      "description": "Se presenta el segundo parcial de la materia Programación Web II",
+      "url": "https://github.com/07Humberto-Mueses/heroes-app-Parcial"
+    },
+    {
+      "name": "API_CRUD",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https:odes"
+      "description": "Una practica de conexión de un proyecto con una base de datos en linea Mongo",
+      "url": "https://github.com/07Humberto-Mueses/API_CRUD"
+    },
+    {
+      "name": "tienda",
+      "isActive": false,
+      "description": "Esta es una practica de un proyecto real y como punto central la interfaz",
+      "url": "https://github.com/07Humberto-Mueses/tienda"
     }
   ]
 }

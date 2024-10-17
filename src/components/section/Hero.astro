@@ -4,8 +4,6 @@ import Section from "@/components/Section.astro";
 import Mail from "@/icons/Mail.astro";
 import Phone from "@/icons/Phone.astro";
 import GitHub from "@/icons/GitHub.astro";
-import X from "@/icons/X.astro";
-import LinkedIn from "@/icons/LinkedIn.astro";
 import WorldMap from "@/icons/WorldMap.astro";
 import Facebook from "@/icons/facebook.astro";
 
@@ -33,7 +31,7 @@ const SOCIAL_ICONS: Record<string, any> = {
       </span>
       <footer>
         <div class="print">
-          {email} ◾ {phone}
+          {email} {phone}
         </div>
         {
           email && (

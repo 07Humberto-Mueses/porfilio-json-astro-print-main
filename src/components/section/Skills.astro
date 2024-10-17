@@ -6,9 +6,13 @@ import { skills } from "@/cv.json";
 <Section title="Habilidades">
   <ul>
     {
-      skills.map(({ name }) => (
+      skills.map(({ name, level, keywords }) => (
         <li>
           <span>{name}</span>
+          <br />
+          <span>{level}</span>
+          <br />
+          <span>{keywords}</span>
         </li>
       ))
     }
@@ -17,9 +21,9 @@ import { skills } from "@/cv.json";
 
 <style>
   ul {
-    display: inline-flex;
-    gap: 8px;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
   }
 
   li {
