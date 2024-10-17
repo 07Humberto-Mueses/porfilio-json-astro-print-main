@@ -31,28 +31,18 @@ const SOCIAL_ICONS: Record<string, any> = {
       </span>
       <footer>
         <div class="print">
-          {email} {phone}
+          {email}  {phone}
         </div>
         {
           email && (
-            <a
-              href={`mailto:${email}`}
-              title={`Enviar un correo a ${name} al correo ${email}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Mail />
+            <a>
+            <Mail />
             </a>
           )
         }
         {
           phone && (
-            <a
-              href={`mailto:${phone}`}
-              title={`Llamar por telefono de ${name} al # ${phone}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a>
               <Phone />
             </a>
           )
