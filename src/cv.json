@@ -27,6 +27,14 @@
       }
     ]
   },
+  "sections": [
+    {
+      "work":["Experiencia"],
+      "education":["Estudios"],
+      "projects":["Proyectos"],
+      "skills":["Habilidades"]
+    }
+  ],
   "work": [
     {
       "name": "En formacion",
@@ -36,17 +44,6 @@
       "endDate": null,
       "summary": "Estudiante",
       "highlights": ["Started the company"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
   "education": [

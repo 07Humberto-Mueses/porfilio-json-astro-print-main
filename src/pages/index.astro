@@ -5,7 +5,7 @@ import Education from "@/components/section/Education.astro";
 import Projects from "@/components/section/Projects.astro";
 import Skills from "@/components//section/Skills.astro";
 import Hero from "@/components//section/Hero.astro";
-
+import NavBar from "@/components/section/NavBar.astro";
 import About from "@/components/section/About.astro";
 import KeyBoardManager from "@/components/KeyBoardManager.astro";
 ---
@@ -13,6 +13,7 @@ import KeyBoardManager from "@/components/KeyBoardManager.astro";
 <Layout title="Portafolio Imprimible">
 	<main>
 		<Hero />
+		<NavBar />
 		<About />
 		<Experience />
 		<Education />
@@ -25,7 +26,7 @@ import KeyBoardManager from "@/components/KeyBoardManager.astro";
 <style>
 	main {
 		padding: 4rem;
-		margin: auto;
+		margin: 0 auto;
 		width: 100; 
 	}
 </style>

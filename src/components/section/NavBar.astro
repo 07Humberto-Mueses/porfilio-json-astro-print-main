@@ -1,0 +1,75 @@
+---
+import Section from "@/components/Section.astro";
+import { sections } from "@/cv.json";
+---
+
+<Section>
+  <ul>
+    {
+      sections.map(({ work, education, projects, skills }) => {
+          return (
+          <li>
+            <article>
+              <header>
+                <h3>
+                  <a href="#education" title="Experience">
+                    {work}
+                  </a>
+                </h3>
+                <h3>
+                  <a href="#education" title="Experience">
+                    {education}
+                  </a>
+                </h3>
+                <h3>
+                  <a href="#education" title="Projects">
+                    {projects}
+                  </a>
+                </h3>
+                <h3>
+                  <a href="#education" title="Skills">
+                    {skills}
+                  </a>
+                </h3>
+              </header>
+            </article>
+          </li>
+        )}
+      )
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+h3{
+  display: inline;
+}
+
+header {
+  background-color: #ec965c;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+a {
+  color: #030303;
+  text-decoration: none;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  padding: 5px 10px;
+  transition: background-color 0.3s ease;
+}
+
+a:hover {
+  background-color: #ecad83;
+}
+</style>
